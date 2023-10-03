@@ -1,0 +1,21 @@
+
+
+
+Task: {
+    ID: 001
+    Description: 
+        1) Create a github repository for the project called "TaskFormUtenteGenericoBlazorApp" => #Course TaskFormUtenteGenericoBlazorApp
+        2) Create .gitignore, README.md
+        3) Create new branches, Structure => feature, develop, release, production
+        4) Do commits for every single file starting from feature
+        5) Sync with github repository
+    
+}
+
+Task: {
+    ID: 002
+    Description: 
+       
+    
+}
+
